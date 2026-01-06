@@ -33,7 +33,10 @@ Pilih Latest Releases > Aseets > Gkb.zip
 ![Preview image](https://github.com/yopaaa/Jelajah-GKB/blob/main/WhatsApp%20Image%202026-01-06%20at%2011.20.24%20AM(1).jpeg)
 ![Preview image](https://github.com/yopaaa/Jelajah-GKB/blob/main/WhatsApp%20Image%202026-01-06%20at%2011.20.24%20AM.jpeg)
 
-> Catatan: Gambar di atas akan tampil bila file tersebut benar-benar ada di repo pada commit `ab3f0a93...`. Jika tidak tampil, periksa nama dan lokasi file.
+## Preview Game
+
+![Preview image](https://github.com/yopaaa/Jelajah-GKB/blob/main/presentasi.png)
+
 
 
 
