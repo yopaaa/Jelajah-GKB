@@ -1,10 +1,33 @@
-# Jelajah-GKB
+# Jelajah Polman : Nightmare
 
-Contoh menampilkan gambar di README.
+Kelompok :
+- Samuel Handerson Halim
+- Rezi
+- Yopa Pitra Ramdhani
+- Barelkamada
+- Oktorio Mahmud Ozy Saputra
+- Nabil muhadzab.
 
-## Cara cepat (menggunakan raw GitHub URL)
-Jika file gambar ada di repository pada commit/branch yang sama, Anda bisa menampilkan langsung dengan URL raw.  
-Contoh (menggunakan file dengan nama asli yang ada spasi — URL di-encode):
+## Cerita 
+Sinopsis Game:
+Okto adalah seorang mahasiswa yang tanpa sengaja tertidur saat proses pembelajaran berlangsung di ruang kelas. Ketika ia terbangun, suasana kampus telah berubah total, lampu- lampu padam, lorong-lorong gelap, dan waktu telah menunjukkan tengah malam. Tidak ada satu pun orang di sekelilingnya, dan seluruh pintu utama kampus terkunci rapat.
+
+Merasa kebingungan dan cemas, Okto berusaha mencari jalan keluar. Namun, setiap sudut kampus terasa asing dan mencekam, seolah-olah bangunan itu memiliki kehendaknya sendiri. Untuk dapat keluar, Okto harus menemukan 5 kunci yang tersebar di berbagai ruangan.
+
+Dalam perjalanannya, Okto akan menghadapi berbagai kejadian misterius: suara langkah kaki yang tidak diketahui sumbernya, pintu yang bergerak sendiri, hingga bayangan yang melintas di kejauhan. Semua itu membuatnya semakin yakin bahwa kampus pada malam hari menyimpan rahasia gelap yang tidak pernah ia ketahui sebelumnya.
+
+Tujuan Okto sederhana namun penuh tekanan: mengumpulkan semua objek yang diperlukan dan keluar dari kampus sebelum pukul 03.00 dini hari, karena terdapat kepercayaan bahwa siapa pun yang masih berada di dalam kampus setelah jam tersebut tidak akan pernah bisa kembali.
+Dengan keberanian yang tersisa, Okto harus menghadapi ketakutan, memecahkan teka-teki, dan melawan perasaan terjebak di kampus yang berubah menjadi tempat yang menakutkan itu.
+
+## Download and try the game
+Unduh versi terbaru game di halaman Releases.
+
+[Download Game di sini](https://github.com/yopaaa/Jelajah-GKB/releases)
+
+Pilih Latest Releases > Aseets > Gkb.zip
+
+
+## Preview Game
 
 ![Preview image](https://github.com/yopaaa/Jelajah-GKB/blob/main/WhatsApp%20Image%202026-01-06%20at%2011.20.23%20AM.jpeg)
 ![Preview image](https://github.com/yopaaa/Jelajah-GKB/blob/main/WhatsApp%20Image%202026-01-06%20at%2011.20.24%20AM(1).jpeg)
@@ -12,29 +35,7 @@ Contoh (menggunakan file dengan nama asli yang ada spasi — URL di-encode):
 
 > Catatan: Gambar di atas akan tampil bila file tersebut benar-benar ada di repo pada commit `ab3f0a93...`. Jika tidak tampil, periksa nama dan lokasi file.
 
-## Cara yang disarankan (relative path)
-Letakkan gambar di folder `images/` (atau `assets/`) dan berikan nama tanpa spasi, mis. `whatsapp-2026-01-06-112023.jpg`. Struktur:
-```
-images/
-  whatsapp-2026-01-06-112023.jpg
-README.md
-```
 
-Di README.md:
-```markdown
-![Deskripsi gambar](images/whatsapp-2026-01-06-112023.jpg)
-```
 
-Atau jika ingin mengatur lebar menggunakan HTML:
-```html
-<img src="images/whatsapp-2026-01-06-112023.jpg" alt="Deskripsi gambar" width="600" />
-```
-
-## Tips
-- Hindari spasi dan karakter spesial pada nama file; gunakan huruf kecil dan `-` atau `_`.
-- Jika nama berisi spasi, gunakan URL-encoding (`%20`) saat memakai raw GitHub URL, atau lebih baik ubah nama file.
-- Pastikan Anda men-commit file gambar ke repo agar tampil di GitHub.
-
-Jika mau, saya bisa:
 - Menghasilkan README yang langsung mengganti nama file dan menaruh contoh relatif, atau
 - Membuat struktur `images/` dan contoh commit message (perlu akses push jika ingin saya yang melakukan).
