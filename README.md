@@ -33,7 +33,11 @@ Pilih Latest Releases > Aseets > Gkb.zip
 ![Preview image](https://github.com/yopaaa/Jelajah-GKB/blob/main/WhatsApp%20Image%202026-01-06%20at%2011.20.24%20AM(1).jpeg)
 ![Preview image](https://github.com/yopaaa/Jelajah-GKB/blob/main/WhatsApp%20Image%202026-01-06%20at%2011.20.24%20AM.jpeg)
 
-## Preview Game
+## Presentasi Game
+
+Unduh versi terbaru game di halaman Releases.
+
+[Dokumentasi Video Presentasi](https://www.youtube.com/watch?v=jbOqlp-ro-s)
 
 ![Preview image](https://github.com/yopaaa/Jelajah-GKB/blob/main/presentasi.png)
 
